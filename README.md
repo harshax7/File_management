@@ -18,7 +18,7 @@ This is a simple and useful Python script that helps you **automatically organiz
 - `os`, `shutil`, `pathlib`
 
 ✅ How to Use
-1. Set the target folder path in the script (`path = r"...your folder..."`) or ("By taking used input")
+1. Set the target folder path in the script (`path = r"...your folder..."`) or (`By taking used input`)
 2. Run the script using:  
    ```bash
    python file-manage.py
